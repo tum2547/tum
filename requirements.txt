@@ -1,11 +1,8 @@
-streamlit
-matplotlib
 numpy
-Pillow
-scipy
 pandas
-altair
-pystan
-yfinance
-plotly
-fbprophet
+matplotlib
+seaborn
+streamlit
+plotly==5.9.0
+openpyxl
+scikit-learn

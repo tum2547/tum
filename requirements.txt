@@ -1,0 +1,11 @@
+streamlit
+matplotlib
+numpy
+Pillow
+scipy
+pandas
+altair
+pystan
+yfinance
+plotly
+fbprophet
